@@ -1,3 +1,3 @@
-Exercícios da aula do dia 10 de março de 2023
+Seja bem vindo ao meu repositório da faculdade :D
 
-Laboratório de algorítmos 01
+Aluno Yuri Garcia, turma SIS1A
