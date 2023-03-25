@@ -7,3 +7,8 @@ cidecofins = valorCombustivel * 0.07
 
 valorRef = valorCombustivel - distri - etanol - icms - cidecofins
 print("O valor de refinaria é de: ", valorRef)
+print("Os impostos/custos inclusos no valor são: ")
+print("Custo de Distribuição: ", distri)
+print("Custo do etanol: ", etanol)
+print("Valor do ICMS: ", icms)
+print("Valor CIDE, PIS/PASEP e COFINS: ", cidecofins)
