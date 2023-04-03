@@ -8,5 +8,5 @@ if media >= 7 and frequencia >= 75:
     print("Você foi aprovado!")
 elif media >= 4 and frequencia > 75:
     print("Você está em exame!")
-elif media < 4 or frequencia < 75:
+elif media < 4 or frequencia <= 75:
     print("Você está reprovado!")
