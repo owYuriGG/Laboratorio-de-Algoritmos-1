@@ -7,7 +7,11 @@ def triplo(n1):
     triplo = n1 * 3
     print(triplo)
 
+def main():
+    numero = int(input("Digite um número: "))
+    dobro(f"dobro: {numero}")
+    triplo(f"triplo: {numero}")
+
 #Código Principal
-numero = int(input("Digite um número: "))
-dobro(f"dobro: {numero}")
-triplo(f"triplo: {numero}")
+
+main()
