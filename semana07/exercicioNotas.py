@@ -22,9 +22,14 @@ def resultado(media):
     else:
         return "Reprovado."
 
-notas = notas()
-media = media(notas)
-resultado = resultado(media)
+def main():
+    notas = notas()
+    media = media(notas)
+    resultado = resultado(media)
 
-print(f"A média do aluno é de: {media}")
-print(f"O aluno está: {resultado}")
+    print(f"A média do aluno é de: {media}")
+    print(f"O aluno está: {resultado}")
+
+#Código principal
+
+main()
