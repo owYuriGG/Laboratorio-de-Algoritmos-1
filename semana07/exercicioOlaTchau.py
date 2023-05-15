@@ -1,8 +1,13 @@
+#Funções
 def ola():
     print("Olá!")
 
 def tchau():
     print("Tchau!")
 
-ola()
-tchau()
+def main():
+    ola()
+    tchau()
+#Código Principal
+
+main()
