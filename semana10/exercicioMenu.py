@@ -9,6 +9,9 @@ def menu():
 
 def inserirItem(lista):
     n = int(input("Digite o item para adicionar a lista: "))
+    if n % 2 != 0:
+        print("ERRO!")
+        return lista
     lista.append(n)
     return lista
 
