@@ -1,12 +1,15 @@
-# **Laboratório de Algorítmos 1 S1 2023** #
+# <h1 align="center"> **Laboratório de Algorítmos 1 S1 2023** </h1>
+<p align="center">
+  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png">
+</p>
 
-![](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png)
 
-
-
-Antonio Meneghetti Faculdade
-
-Primeiro semestre 2023
+<p align="center">
+  Sistemas de Informações - AMF
+</p>
+<p align="center">
+  Primeiro semestre - 2023
+</p>
 
 ## **Objetivo do repositório** ##
 
