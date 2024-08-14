@@ -18,4 +18,6 @@ Aqui está registrado todas as atividades, tarefas e trabalhos desenvolvidos ao 
 *Cadeira do primeiro semestre do curso Sistemas de Informação da AMF*
 
 > [Meu Instagram](https://www.instagram.com/yuri.garciia)
+>
+> 
 > [Meu Linkedin](https://www.linkedin.com/in/ogarciia/)
